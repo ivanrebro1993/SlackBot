@@ -1,2 +1,2 @@
 # SlackBot
-Slack message bot
+Slack message bot application
