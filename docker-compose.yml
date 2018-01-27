@@ -1,6 +1,6 @@
 version: "3.1"
 services:
-  notifier:
+  slackbot-app:
     container_name: slackbot
     image: node:9.4.0-alpine
     working_dir: /usr/src/app
